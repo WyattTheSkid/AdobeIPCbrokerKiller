@@ -1,0 +1,10 @@
+C:\Users\wyatt\source\repos\AdobeIPCBrokerKiller\AdobeIPCBrokerKiller\bin\Debug\AdobeIPCBrokerKiller.exe.config
+C:\Users\wyatt\source\repos\AdobeIPCBrokerKiller\AdobeIPCBrokerKiller\bin\Debug\AdobeIPCBrokerKiller.exe
+C:\Users\wyatt\source\repos\AdobeIPCBrokerKiller\AdobeIPCBrokerKiller\bin\Debug\AdobeIPCBrokerKiller.pdb
+C:\Users\wyatt\source\repos\AdobeIPCBrokerKiller\AdobeIPCBrokerKiller\obj\Debug\AdobeIPCBrokerKiller.csprojAssemblyReference.cache
+C:\Users\wyatt\source\repos\AdobeIPCBrokerKiller\AdobeIPCBrokerKiller\obj\Debug\AdobeIPCBrokerKiller.Form1.resources
+C:\Users\wyatt\source\repos\AdobeIPCBrokerKiller\AdobeIPCBrokerKiller\obj\Debug\AdobeIPCBrokerKiller.Properties.Resources.resources
+C:\Users\wyatt\source\repos\AdobeIPCBrokerKiller\AdobeIPCBrokerKiller\obj\Debug\AdobeIPCBrokerKiller.csproj.GenerateResource.cache
+C:\Users\wyatt\source\repos\AdobeIPCBrokerKiller\AdobeIPCBrokerKiller\obj\Debug\AdobeIPCBrokerKiller.csproj.CoreCompileInputs.cache
+C:\Users\wyatt\source\repos\AdobeIPCBrokerKiller\AdobeIPCBrokerKiller\obj\Debug\AdobeIPCBrokerKiller.exe
+C:\Users\wyatt\source\repos\AdobeIPCBrokerKiller\AdobeIPCBrokerKiller\obj\Debug\AdobeIPCBrokerKiller.pdb
